@@ -1,4 +1,4 @@
-# Steps on what has done
+# Steps on what has been done
 
 1) Loading test images
 2) First we have imported all the essential libraries
